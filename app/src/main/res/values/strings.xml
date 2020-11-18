@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+    <string name="saved">SAVED</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleted">DELETED</string>
+    <string name="delete">Delete</string>
+    <string name="updated">UPDATED</string>
+    <string name="edit_text_title_hint_alert_dialog"><font size="18"><i>Add Event Title</i></font></string>
+    <string name="edit_text_description_hint_alert_dialog"><font size="18"><i>Add Event Description</i></font></string>
+    <string name="edit_event_on">EDIT EVENT ON: \</string>
+    <string name="add_event_on">ADD EVENT ON: \</string>
+    <string name="fill_title_or_description">FIll TITLE OR DESCRIPTION</string>
+    <string name="mmmm_yyyy">MMMM yyyy</string>
+    <string name="delete_all_events">Delete all events?</string>
+    <string name="list_of_events_is_empty">List of events is empty</string>
+    <string name="all_events_deleted">All events deleted</string>
+</resources>
